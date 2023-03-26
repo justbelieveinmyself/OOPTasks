@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Task1OOP</name>
+    </assembly>
+    <members>
+        <member name="T:Task1OOP.FirstTaskExamples">
+            <summary>
+            Задание - 1.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.ImplicitConversion">
+            <summary>
+            Задание - 1. Пункт - 1.
+            Неявное преборазование
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.ExplicitConversion">
+            <summary>
+            Задание - 1. Пункт - 2.
+            Явное преобразование
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.ProcessingExceptional">
+            <summary>
+            Задание - 1. Пункт - 3.
+            Обработка исключений
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.OperatorsAsAndIs">
+            <summary>
+            Задание - 1. Пункт - 4.
+            Операторы as и is.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.RedefinitionImExOperations">
+            <summary>
+            Задание - 1. Пункт - 5.
+            Пользовательские преобразования Explicit/Implicit.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.ConvertingAndParsing">
+            <summary>
+            Задание - 1. Пункт - 6.
+            Convert, Parse, TryParse.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.FirstTaskExamples.InputWithDelimetr">
+            <summary>
+            Задание - 1. Пункт - 7.
+            Ввод с правильным форматом вещественного числа.
+            </summary>
+        </member>
+        <member name="T:Task1OOP.Secondary">
+            <summary>
+            Класс для демонстрации каста классов
+            Производный от: BasedClass
+            </summary>
+        </member>
+        <member name="T:Task1OOP.BasedClass">
+            <summary>
+            Класс для демонстрации каста классов
+            Родительский.
+            </summary>
+        </member>
+        <member name="T:Task1OOP.Counter">
+            <summary>
+            Класс для демонстрации пользовательских явных
+            и неявных преобразований.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button1Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 1.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button2Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 2.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button3Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 3.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button4Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 4.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button5Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 5.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button6Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 6.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.button7Point_Click(System.Object,System.EventArgs)">
+            <summary>
+            Пункт - 7.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.textBoxDelimetr_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            Проверка на разделитель.
+            </summary>
+        </member>
+        <member name="F:Task1OOP.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Task1OOP.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="T:Task1OOP.Form2">
+            <summary>
+            Задание - 2. Вычисление квадратных корней.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form2.buttonTo3Task_Click(System.Object,System.EventArgs)">
+            <summary>
+            Переход на 3 форму.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form2.buttonGetMathSquare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Считает квадрат Math.Sqrt по нажатию кнопки
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form2.buttonGetNewtonSquare_Click(System.Object,System.EventArgs)">
+            <summary>
+            Считает квадрат методом Ньтона по нажатию кнопки
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form2.buttonIteration_Click(System.Object,System.EventArgs)">
+            <summary>
+            Переходит к следующей итерации метода Ньютона по нажатию кнопки
+            </summary>
+        </member>
+        <member name="F:Task1OOP.Form2.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form2.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Task1OOP.Form2.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Task1OOP.Form3">
+            <summary>
+            Задание - 3. Перевод из числа в двоичное.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form3.buttonGetBinary_Click(System.Object,System.EventArgs)">
+            <summary>
+            Переводит число в двоичное по нажатию кнопки.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form3.textBoxInput_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            Проверяет на разделитель.
+            </summary>
+        </member>
+        <member name="F:Task1OOP.Form3.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form3.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Task1OOP.Form3.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Task1OOP.Form4">
+            <summary>
+            Доп.задание - 1.
+            </summary>
+        </member>
+        <member name="F:Task1OOP.Form4.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Form4.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Task1OOP.Form4.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="M:Task1OOP.CheckBox.CheckDoubleNum(System.Windows.Forms.TextBox)">
+            <summary>
+            Check is it Double type of user input
+            </summary>
+            <param name="box">TextBox to check</param>
+            <returns></returns>
+        </member>
+        <member name="M:Task1OOP.CheckBox.CheckDecimalNum(System.Windows.Forms.TextBox)">
+            <summary>
+            Check is it Decimal type of user input
+            </summary>
+            <param name="box"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Task1OOP.CheckBox.CheckIntNum(System.Windows.Forms.TextBox)">
+            <summary>
+            Check is it Int type of user input
+            </summary>
+            <param name="box"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Task1OOP.CheckBox.CheckDelimetr(System.Windows.Forms.TextBox)">
+            <summary>
+            Check string to contains wrong delimetr
+            </summary>
+            <param name="box"></param>
+        </member>
+        <member name="M:Task1OOP.SqrtCalculate.MathMethod(System.Double)">
+            <summary>
+            Calculate Math.Sqrt
+            </summary>
+            <param name="num">Takes a num with type Double</param>
+            <returns>Returns square root of num</returns>
+        </member>
+        <member name="T:Task1OOP.Properties.Resources">
+            <summary>
+              Класс ресурсов со строгим типом для поиска локализованных строк и пр.
+            </summary>
+        </member>
+        <member name="P:Task1OOP.Properties.Resources.ResourceManager">
+            <summary>
+              Возврат кэшированного экземпляра ResourceManager, используемого этим классом.
+            </summary>
+        </member>
+        <member name="P:Task1OOP.Properties.Resources.Culture">
+            <summary>
+              Переопределяет свойство CurrentUICulture текущего потока для всех
+              подстановки ресурсов с помощью этого класса ресурсов со строгим типом.
+            </summary>
+        </member>
+    </members>
+</doc>

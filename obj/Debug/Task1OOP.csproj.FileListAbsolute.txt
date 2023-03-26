@@ -1,0 +1,14 @@
+C:\Users\black\source\repos\Task1OOP\bin\Debug\Task1OOP.exe.config
+C:\Users\black\source\repos\Task1OOP\bin\Debug\Task1OOP.exe
+C:\Users\black\source\repos\Task1OOP\bin\Debug\Task1OOP.pdb
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.Form1.resources
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.Properties.Resources.resources
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.csproj.GenerateResource.cache
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.exe
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.pdb
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.Form2.resources
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.Form3.resources
+C:\Users\black\source\repos\Task1OOP\obj\Debug\Task1OOP.Form4.resources
+C:\Users\black\source\repos\Task1OOP\bin\Debug\Task1OOP.xml
